@@ -19,7 +19,7 @@ export default function Home() {
             onClick={handleClose}
             className="inline-flex items-center justify-center rounded-md border px-4 py-2 text-sm font-medium hover:bg-muted"
           >
-            창 닫기
+            거래소로 돌아가기
           </button>
         </div>
 
